@@ -1,6 +1,16 @@
 # Hangman Flutter Game 🎮
 
-<img src="https://via.placeholder.com/500x300/CEDAB9/FFFFFF?text=Intro+GIF+with+Background" alt="Intro GIF" width="500px" style="background-color: #CEDAB9;" />
+<div style="position: relative; width: 800px; height: 500px; background-color: #CEDAB9;">
+  <!-- GIF on top of the background color -->
+  <img src="https://github.com/user-attachments/assets/22f243cd-6db9-45ea-9fa7-9aa8f62ba9b0" alt="Intro GIF" style="position: absolute; top: 0; left: 0; width: 50%; height: auto; " />
+</div>
+
+
+
+
+
+
+
 
 
 
