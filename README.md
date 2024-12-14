@@ -2,6 +2,7 @@
 
 
 ![banner](https://user-images.githubusercontent.com/73842931/203234278-72dc4c28-0542-475e-8b0a-a64993b7f79b.png)
+![intro](https://github.com/user-attachments/assets/22f243cd-6db9-45ea-9fa7-9aa8f62ba9b0)
 
 
 A simple and fun Hangman game built with [Flutter](https://flutter.dev/) to challenge your vocabulary skills! Guess the word before the hangman is fully drawn. With various categories and customization options, this game is perfect for all ages.
