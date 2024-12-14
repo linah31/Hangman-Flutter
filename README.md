@@ -17,15 +17,15 @@ A simple and fun Hangman game built with [Flutter](https://flutter.dev/) to chal
 
 | Name                   | Hex Code     | Preview                  |
 |------------------------|--------------|--------------------------|
-| Tea Green              | `#CEDAB9`    | ![#CEDAB9](https://via.placeholder.com/20/CEDAB9?text=+) |
-| Cambridge Blue         | `#7F9F92`    | ![#7F9F92](https://via.placeholder.com/20/7F9F92?text=+) |
-| Cambridge Blue 2       | `#A2C1A3`    | ![#A2C1A3](https://via.placeholder.com/20/A2C1A3?text=+) |
-| Wheat                  | `#F3DEAF`    | ![#F3DEAF](https://via.placeholder.com/20/F3DEAF?text=+) |
-| Buff                   | `#EBC389`    | ![#EBC389](https://via.placeholder.com/20/EBC389?text=+) |
-| Primary Color Dark     | `#556869`    | ![#556869](https://via.placeholder.com/20/556869?text=+) |
-| Primary Color          | `#81A59A`    | ![#81A59A](https://via.placeholder.com/20/81A59A?text=+) |
-| Secondary Color        | `#ECC3B0`    | ![#ECC3B0](https://via.placeholder.com/20/ECC3B0?text=+) |
-| Secondary Color Dark   | `#CFBFB9`    | ![#CFBFB9](https://via.placeholder.com/20/CFBFB9?text=+) |
+| Tea Green              | `#CEDAB9`    | ![Tea Green](https://via.placeholder.com/100x100/CEDAB9?text=+) |
+| Cambridge Blue         | `#7F9F92`    | ![Cambridge Blue](https://via.placeholder.com/100x100/7F9F92?text=+) |
+| Cambridge Blue 2       | `#A2C1A3`    | ![Cambridge Blue 2](https://via.placeholder.com/100x100/A2C1A3?text=+) |
+| Wheat                  | `#F3DEAF`    | ![Wheat](https://via.placeholder.com/100x100/F3DEAF?text=+) |
+| Buff                   | `#EBC389`    | ![Buff](https://via.placeholder.com/100x100/EBC389?text=+) |
+| Primary Color Dark     | `#556869`    | ![Primary Color Dark](https://via.placeholder.com/100x100/556869?text=+) |
+| Primary Color          | `#81A59A`    | ![Primary Color](https://via.placeholder.com/100x100/81A59A?text=+) |
+| Secondary Color        | `#ECC3B0`    | ![Secondary Color](https://via.placeholder.com/100x100/ECC3B0?text=+) |
+| Secondary Color Dark   | `#CFBFB9`    | ![Secondary Color Dark](https://via.placeholder.com/100x100/CFBFB9?text=+) |
 
 ## 📂 Project Structure
 - **Models**:
@@ -46,31 +46,32 @@ A simple and fun Hangman game built with [Flutter](https://flutter.dev/) to chal
 1. Clone the repository:
    ```bash
    git clone https://github.com/doctorcode9/hangman_flutter.git
-cd hangman_flutter
-flutter pub get
-flutter run
-🛠 Prerequisites
-Flutter SDK
-A code editor like VS Code or Android Studio.
-🤓 Good People
-<a href="https://github.com/doctorcode9"><img align="left" src="https://avatars.githubusercontent.com/u/73842931?s=100" height="75"></a>
+   cd hangman_flutter
+   flutter pub get
+   flutter run
+🤓 Good People <a href="https://github.com/doctorcode9"><img align="left" src="https://avatars.githubusercontent.com/u/73842931?s=100" height="75"></a>
 
-<br> <br>
-🎥 Preview
+<br> <br> 🎥 Preview
 
+<!-- Add your screen recording here -->
 
 🛠️ Techniques Used
+
 Architecture: MVC (Model-View-Controller)
 Lottie: For dynamic animations.
 Path Provider: For managing file storage.
 URL Launcher: To handle external links.
 Audio Players: For adding sound effects.
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+📜 License This project is licensed under the MIT License - see the LICENSE file for details.
+
+❤️ Acknowledgements This project is part of the University-sponsored Next Academy's Flutter programming instruction.
+
 Enjoy the game and challenge your friends! 🕹️
 
-### Key Updates:
-1. **Color Palette Table**: Added a table with color names, hex codes, and visual previews using GitHub's placeholder image service.
-2. **Placeholder Previews**: Links in the `Preview` column display color swatches.
 
-This version ensures the colors are clearly represented visually. Let me know if further customization is needed!
+
+### Changes made:
+1. **Color Palette**: Increased the size of the color previews to `100x100` for better visibility.
+2. **Screen Recording Placeholder**: Added a placeholder space with the label "Add your screen recording here." You can replace the placeholder link with the actual video URL once you have the recording ready.
+
+
