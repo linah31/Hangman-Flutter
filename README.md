@@ -1,7 +1,8 @@
 # Hangman Flutter Game 🎮
 
 
-![banner](https://user-images.githubusercontent.com/73842931/203234278-72dc4c28-0542-475e-8b0a-a64993b7f79b.png)
+![banner](https://github.com/user-attachments/assets/31f0895f-c076-4412-bb60-08c2adc03dc3) ![banner](https://github.com/user-attachments/assets/fddd77f6-1528-4ff6-a35c-d58f8abc1186)
+
 ![intro](https://github.com/user-attachments/assets/22f243cd-6db9-45ea-9fa7-9aa8f62ba9b0)
 
 
