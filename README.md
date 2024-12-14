@@ -55,23 +55,11 @@ A simple and fun Hangman game built with [Flutter](https://flutter.dev/) to chal
 
 <!-- Add your screen recording here -->
 
-🛠️ Techniques Used
 
-Architecture: MVC (Model-View-Controller)
-Lottie: For dynamic animations.
-Path Provider: For managing file storage.
-URL Launcher: To handle external links.
-Audio Players: For adding sound effects.
-📜 License This project is licensed under the MIT License - see the LICENSE file for details.
-
-❤️ Acknowledgements This project is part of the University-sponsored Next Academy's Flutter programming instruction.
 
 Enjoy the game and challenge your friends! 🕹️
 
 
 
-### Changes made:
-1. **Color Palette**: Increased the size of the color previews to `100x100` for better visibility.
-2. **Screen Recording Placeholder**: Added a placeholder space with the label "Add your screen recording here." You can replace the placeholder link with the actual video URL once you have the recording ready.
 
 
